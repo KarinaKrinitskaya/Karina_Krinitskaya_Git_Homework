@@ -30,3 +30,5 @@ Mina-moto e kaeru
 Hosoi michi
 
 The first text to commit to the "feature" branch.
+
+The second text to commit to the "feature" branch.
